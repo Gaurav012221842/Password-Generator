@@ -1,0 +1,9 @@
+#root {
+  max-width: 1280px;
+  margin: 10px auto;
+  padding: 4rem;
+  text-align: center;
+  background-color:yellow;
+  border: 5px solid rgb(17, 17, 182);
+  border-radius: 20px;
+}
